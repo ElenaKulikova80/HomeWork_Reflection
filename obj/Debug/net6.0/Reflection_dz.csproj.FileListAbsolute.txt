@@ -1,0 +1,17 @@
+C:\Users\123\source\repos\Reflection_dz\bin\Debug\net6.0\Reflection_dz.exe
+C:\Users\123\source\repos\Reflection_dz\bin\Debug\net6.0\Reflection_dz.deps.json
+C:\Users\123\source\repos\Reflection_dz\bin\Debug\net6.0\Reflection_dz.runtimeconfig.json
+C:\Users\123\source\repos\Reflection_dz\bin\Debug\net6.0\Reflection_dz.dll
+C:\Users\123\source\repos\Reflection_dz\bin\Debug\net6.0\Reflection_dz.pdb
+C:\Users\123\source\repos\Reflection_dz\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.csproj.AssemblyReference.cache
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.AssemblyInfoInputs.cache
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.AssemblyInfo.cs
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.csproj.CopyComplete
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.dll
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\refint\Reflection_dz.dll
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.pdb
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\Reflection_dz.genruntimeconfig.cache
+C:\Users\123\source\repos\Reflection_dz\obj\Debug\net6.0\ref\Reflection_dz.dll

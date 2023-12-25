@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4cxT0nmR9crvavtwF8lh6uBO21NarAotG6mhDkYBq5LYrMRwPurXHGvEYzC1eOnCE4euX+bBzCYVXLkFps+aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\123\\source\\repos\\Reflection_dz\\Reflection_dz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
